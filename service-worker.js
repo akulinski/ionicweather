@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ionicweather/precache-manifest.8f134b9b06562772b0562d7b6a680081.js"
+  "/ionicweather/precache-manifest.4d9c78aee2e9bedc2d07d18bd7c57867.js"
 );
 
 self.addEventListener('message', (event) => {
